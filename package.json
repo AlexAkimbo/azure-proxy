@@ -1,0 +1,14 @@
+{
+  "name": "azure_proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy for CORE running on Azure App Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Jovanovic <boris@coinis.com>",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
